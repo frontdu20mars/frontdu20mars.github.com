@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Front du 20 mars]]></title>
-  <link href="http://frontdu20mars.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Evènements | Front du 20 mars]]></title>
+  <link href="http://frontdu20mars.github.com/blog/categories/evènements/atom.xml" rel="self"/>
   <link href="http://frontdu20mars.github.com/"/>
   <updated>2012-07-03T19:46:00+02:00</updated>
   <id>http://frontdu20mars.github.com/</id>
