@@ -2,13 +2,25 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://frontdu20mars.github.com/Evènements/2012/06/08/feminismes-islamiques-rencontre-debat-avec-zahra-ali.html
+            http://frontdu20mars.github.com/Rencontres/2012/03/15/combattre-le-pinkwashing-au-coeur-du-mouvement-queer-arabe.html
         </loc>
-        <lastmod>2012-07-03T19:44:51+02:00</lastmod>
+        <lastmod>2012-07-07T00:46:23+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://frontdu20mars.github.com/Rencontres/2012/06/08/feminismes-islamiques-rencontre-debat-avec-zahra-ali.html
+        </loc>
+        <lastmod>2012-07-07T00:41:05+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://frontdu20mars.github.com/Repas/2012/07/07/repas-de-soutien-nourrir-le-debat-feministe.html
+        </loc>
+        <lastmod>2012-07-07T00:56:41+02:00</lastmod>
     </url>
     <url>
         <loc>http://frontdu20mars.github.com/blog/archives/</loc>
-        <lastmod>2012-07-03T19:44:51+02:00</lastmod>
+        <lastmod>2012-07-07T00:56:41+02:00</lastmod>
     </url>
     <url>
         <loc>http://frontdu20mars.github.com/qui-sommes-nous/</loc>
@@ -16,6 +28,6 @@
     </url>
     <url>
         <loc>http://frontdu20mars.github.com/</loc>
-        <lastmod>2012-07-03T19:44:51+02:00</lastmod>
+        <lastmod>2012-07-07T00:56:41+02:00</lastmod>
     </url>
 </urlset>
