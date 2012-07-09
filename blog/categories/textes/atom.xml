@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Front du 20 mars]]></title>
-  <link href="http://frontdu20mars.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Textes | Front du 20 mars]]></title>
+  <link href="http://frontdu20mars.github.com/blog/categories/textes/atom.xml" rel="self"/>
   <link href="http://frontdu20mars.github.com/"/>
   <updated>2012-07-10T01:42:51+02:00</updated>
   <id>http://frontdu20mars.github.com/</id>
@@ -14,37 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Repas de soutien : nourrir le débat féministe]]></title>
-    <link href="http://frontdu20mars.github.com/Repas/2012/07/07/repas-de-soutien-nourrir-le-debat-feministe.html"/>
-    <updated>2012-07-07T00:52:00+02:00</updated>
-    <id>http://frontdu20mars.github.com/Repas/2012/07/07/repas-de-soutien-nourrir-le-debat-feministe</id>
-    <content type="html"><![CDATA[<h4>à la Rôtisserie, le 19 juillet à partir de 19h30. 4 Rue Sainte-Marthe, 75010 Paris M° Belleville, Goncourt ou Colonel Fabien</h4>
-
-<p>Un large débat en cours questionne l&#8217;universalité des stratégies d&#8217;action et de politisation des mouvements féministes et « LGBT ». C&#8217;est une discussion qui se mène en Europe, mais également bien au-delà, et qui met aux prises chercheurs et chercheuses, militant·e·s, associations et organisations. Elle pose des questions tactiques et stratégiques de plus en plus pressantes : il est par exemple notable que les politiques nationalistes et racistes accompagnent et se nourrissent de campagnes de solidarité internationale initiées par des organisations « LGBT » et féministes.</p>
-
-<!-- more -->
-
-
-<p>Aujourd&#8217;hui, de nombreux et nombreuses acteurs et actrices discutent les fondements de cette solidarité et les stratégies de lutte contre les oppressions sexuelles et de genre au regard du racisme et de l&#8217;impérialisme. C&#8217;est dans ce contexte que le Front du 20 mars a souhaité aménager un espace de débat en invitant en mars dernier Haneen Maikey et Ramzy Kumsieh de l&#8217;association Al Qaws pour la diversité sexuelle et de genre en Palestine, puis plus récemment Zahra Ali, chercheuse et militante autour des féminismes islamiques.</p>
-
-<p>Pour nourrir encore ce débat, nous souhaitons inviter d&#8217;autres figures qui, d&#8217;une manière ou d&#8217;une autre, contribuent à questionner l&#8217;hégémonie des modes d&#8217;organisation et de politisation féministes et « LGBT » occidentaux. C&#8217;est pourquoi nous envisageons par exemple inviter Joseph Massad, auteur de <em>Desiring Arabs</em>, et d&#8217;autres voix qui s&#8217;inscrivent dans cette large discussion.</p>
-
-<p>Le Front du 20 mars est un espace militant. Il ne bénéficie pas de fonds de l&#8217;université ou de subventions. Or, faire venir les voix critiques des modes de lutte dominants coûte cher : visas, transport, hébergement&#8230;</p>
-
-<p>C&#8217;est pourquoi nous vous invitons à partager avec nous un repas de soutien pour nous aider à contribuer au débat.</p>
-
-<p>Soyez nombreux et nombreuses à la Rôtisserie, le 19 juillet à partir de 19h30. 4 Rue Sainte-Marthe, 75010 Paris M° Belleville, Goncourt ou Colonel Fabien</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Femmes, féminisme et islam : Décoloniser, décloisonner et renouveler le féminisme]]></title>
     <link href="http://frontdu20mars.github.com/Textes/2012/07/06/femmes-feminisme-et-islam-decoloniser-decloisonner-et-renouveler-le-feminisme.html"/>
     <updated>2012-07-06T23:35:00+02:00</updated>
     <id>http://frontdu20mars.github.com/Textes/2012/07/06/femmes-feminisme-et-islam-decoloniser-decloisonner-et-renouveler-le-feminisme</id>
     <content type="html"><![CDATA[<h4>par Zahra Ali</h4>
 
-<p><em>[Nous publions ici un texte de Zahra Ali qui avait été imprimé et distribué à prix libre à l&#8217;occasion de la <a href="http://frontdu20mars.github.com/Rencontres/2012/06/08/feminismes-islamiques-rencontre-debat-avec-zahra-ali.html">rencontre-débat avec Zahra Ali sur les féminismes islamiques</a> qui a eu lieu le 9 juin 2012.]</em></p>
+<p><em>[Nous publions ici un texte de Zahra Ali qui avait été imprimé et distribué à prix libre à l'occasion de la <a href="/Rencontres/2012/06/08/feminismes-islamiques-rencontre-debat-avec-zahra-ali.html">rencontre-débat avec Zahra Ali sur les féminismes islamiques</a> qui a eu lieu le 9 juin 2012.]</em></p>
 
 <p>Il faudrait vraisemblablement commencer toute énonciation associant
 les termes « femme » et « islam », par la déconstruction de la
@@ -200,7 +176,7 @@ matriarcat noir »<sup id='fnref:13'><a href='#fn:13' rel='footnote'>13</a></sup
 race » était frappante autour de l’ex-patron du FMI dont le
 scandale a été entouré d’un silence pudique par le monde politique
 français, un grand nombre de figures féministes y compris<sup id='fnref:14'><a href='#fn:14' rel='footnote'>14</a></sup>.
-Certain•e•s sont même allé•e•s jusqu&#8217;à minimiser l’accusation de
+Certain•e•s sont même allé•e•s jusqu'à minimiser l’accusation de
 viol en l’assimilant au puritanisme américain, loin des traditions
 de la séduction à la française. DSK n’est qu’un séducteur…rien de
 mal là-dedans ! Ainsi, le sexisme, le viol, la violence, sont
@@ -388,73 +364,16 @@ et sexuelles.</p>
 
 <p><strong>Notes</strong></p>
 
-<div class="footnotes">
+<p><div class="footnotes">
 <ol>
-<li id='fn:1'><a href='#fnref:1' rev='footnote'>⇡</a> Said E., <em>L’Orientalisme. L’Orient créé par l’Occident</em>, Le seuil, 1980. </li><li id='fn:2'><a href='#fnref:2' rev='footnote'>⇡</a> Il a été aussi question, entre autres, de l’auscultation des femmes par un médecin homme. Leila Ahmed cite à ce sujet Lord Cromer l’officiel chargé de la supervision de la domination coloniale britannique en Egypte : “ I am aware that in exceptional cases women like to be attended by female doctors, but I conceive that throughout the civilised world, attandance by medical is still the rule.” In Ahmed L., <em>Women and Gender in Islam. Historical Roots of a Modern Debate</em>, Yale University Press, 1992, chapitre 8 «The discourse of the veil », p154. </li><li id='fn:3'><a href='#fnref:3' rev='footnote'>⇡</a> Fanon F., « L’Algérie de dévoile », dans <em>L’An V de la révolution algérienne</em>, ed. La Découverte, 2001. </li><li id='fn:4'><a href='#fnref:4' rev='footnote'>⇡</a> <em>Women and Gender et A Quiet Revolution</em>, op.cit. </li><li id='fn:5'><a href='#fnref:5' rev='footnote'>⇡</a> <em>A Quiet revolution. The Veil’s Resurgence from the Middle East to America</em>, ed. Yale University Press, 2011. </li><li id='fn:6'><a href='#fnref:6' rev='footnote'>⇡</a> Une littérature importante traite de ce sujet, voir entre autres, Göle N., <em>Musulmanes et Modernes, Voile et civilisation en Turquie</em>, ed. La Découverte, 1993, Ahmed L., A quiet Revolution, op.cit, Mahmood S., <em>Politics of Piety, The Islamic Revival and the Feminist Subject</em>, ed Princeton University Press, 2005, Lila Abu Lughod, <em>Remaking Women, Feminism and Modernity in the Middle-East</em>, Princeton University Press, 1998. </li><li id='fn:7'><a href='#fnref:7' rev='footnote'>⇡</a> Lire à ce sujet les travaux de Khosrokhavar F., <em>L’islam des jeunes</em>, ed. Flammarion, 1997; chapitre « L’islam au féminin », p 117 à 142 et Gaspard F. (en collab. avec) Le foulard et la République, ed. La Découverte, 1995, Cesari J. <em>Musulmans et républicains. Les jeunes, l’islam et la France</em>, ed. Complexe, coll. Les Dieux dans la Cité, Bruxelles, 1998, et Ali Z. et Tersignif S, « Feminism and Islam: a post-colonial and transnational reading », in <em>Exchanges and Correspondence: The Construction of Feminism</em>, dir. C. Fillard et F. Orazi, ed. Cambridge Scholars Publishing, oct. 2009. </li><li id='fn:8'><a href='#fnref:8' rev='footnote'>⇡</a> Lire à ce sujet Lila Abu-Lughod, « Do Muslim Women Really Need Saving? Anthropological Reflections on Cultural Relativism and Its Others », <em>American Anthropologist</em> 194 (Sept. 2002): 783–90. </li><li id='fn:9'><a href='#fnref:9' rev='footnote'>⇡</a> Lire l’article pionnier de Gayatri Spivak, « Can the Subaltern Speak ? », publié pour la première fois en 1988 in Cary Nelson and Lawrence Grossberg&#8217;s <em>Marxism and the Interpretation of Culture</em>. </li><li id='fn:10'><a href='#fnref:10' rev='footnote'>⇡</a> Officiel britannique chargé de la supervision de la domination coloniale britannique en Egypte. </li><li id='fn:11'><a href='#fnref:11' rev='footnote'>⇡</a> (dir.) <em>La république mise à nu par son immigration</em>, ed. La Fabrique, 2006, Macé E. (en collab. avec), <em>Les féministes et le garçon arabe</em>, ed. Aube, 2004. </li><li id='fn:12'><a href='#fnref:12' rev='footnote'>⇡</a> Mohanty C., <em>Under Western Eyes</em>, op. cit. </li><li id='fn:13'><a href='#fnref:13' rev='footnote'>⇡</a> Davis A., <em>Femmes, race et classe</em>, ed. Des Femmes, 1983, et <em>Black Feminism</em>, op. cit. p34-42. </li><li id='fn:14'><a href='#fnref:14' rev='footnote'>⇡</a> Pour une excellente analyse féministe de l’affaire DSK voir l’excellent ouvrage dirigé par Christine Delphy, <em>Un troussage de domestique</em>, ed. Syllepse, 2011. </li><li id='fn:15'><a href='#fnref:15' rev='footnote'>⇡</a> Partie du titre de l’ouvrage fondateur des études féministes noires états-uniennes : Hull G., Scott P. B., Smith B., <em>All the Women are White, All the Blacks are Men but Some of Us are Brave : Black Women’s Studies</em>, ed. Feminist Press, 1982. </li><li id='fn:16'><a href='#fnref:16' rev='footnote'>⇡</a> Chandra Talpade Mohanty, <em>Feminism without Borders : Decolonizing Theory, Practising Solidarity</em>, ed. Duke University Press, 2003. </li><li id='fn:17'><a href='#fnref:17' rev='footnote'>⇡</a> En France, l’expérience du Collectif des Féministes pour l’Egalité est intéressante à ce sujet. </li><li id='fn:18'><a href='#fnref:18' rev='footnote'>⇡</a> Chandra Talpade Mohanty, <em>Feminism without Borders</em>, op.cit. </li>
+<li id='fn:1'><a href='#fnref:1' rev='footnote'>⇡</a> Said E., <em>L’Orientalisme. L’Orient créé par l’Occident</em>, Le seuil, 1980. </li><li id='fn:2'><a href='#fnref:2' rev='footnote'>⇡</a> Il a été aussi question, entre autres, de l’auscultation des femmes par un médecin homme. Leila Ahmed cite à ce sujet Lord Cromer l’officiel chargé de la supervision de la domination coloniale britannique en Egypte : “ I am aware that in exceptional cases women like to be attended by female doctors, but I conceive that throughout the civilised world, attandance by medical is still the rule.” In Ahmed L., <em>Women and Gender in Islam. Historical Roots of a Modern Debate</em>, Yale University Press, 1992, chapitre 8 «The discourse of the veil », p154. </li><li id='fn:3'><a href='#fnref:3' rev='footnote'>⇡</a> Fanon F., « L’Algérie de dévoile », dans <em>L’An V de la révolution algérienne</em>, ed. La Découverte, 2001. </li><li id='fn:4'><a href='#fnref:4' rev='footnote'>⇡</a> <em>Women and Gender et A Quiet Revolution</em>, op.cit. </li><li id='fn:5'><a href='#fnref:5' rev='footnote'>⇡</a> <em>A Quiet revolution. The Veil’s Resurgence from the Middle East to America</em>, ed. Yale University Press, 2011. </li><li id='fn:6'><a href='#fnref:6' rev='footnote'>⇡</a> Une littérature importante traite de ce sujet, voir entre autres, Göle N., <em>Musulmanes et Modernes, Voile et civilisation en Turquie</em>, ed. La Découverte, 1993, Ahmed L., A quiet Revolution, op.cit, Mahmood S., <em>Politics of Piety, The Islamic Revival and the Feminist Subject</em>, ed Princeton University Press, 2005, Lila Abu Lughod, <em>Remaking Women, Feminism and Modernity in the Middle-East</em>, Princeton University Press, 1998. </li><li id='fn:7'><a href='#fnref:7' rev='footnote'>⇡</a> Lire à ce sujet les travaux de Khosrokhavar F., <em>L’islam des jeunes</em>, ed. Flammarion, 1997; chapitre « L’islam au féminin », p 117 à 142 et Gaspard F. (en collab. avec) Le foulard et la République, ed. La Découverte, 1995, Cesari J. <em>Musulmans et républicains. Les jeunes, l’islam et la France</em>, ed. Complexe, coll. Les Dieux dans la Cité, Bruxelles, 1998, et Ali Z. et Tersignif S, « Feminism and Islam: a post-colonial and transnational reading », in <em>Exchanges and Correspondence: The Construction of Feminism</em>, dir. C. Fillard et F. Orazi, ed. Cambridge Scholars Publishing, oct. 2009. </li><li id='fn:8'><a href='#fnref:8' rev='footnote'>⇡</a> Lire à ce sujet Lila Abu-Lughod, « Do Muslim Women Really Need Saving? Anthropological Reflections on Cultural Relativism and Its Others », <em>American Anthropologist</em> 194 (Sept. 2002): 783–90. </li><li id='fn:9'><a href='#fnref:9' rev='footnote'>⇡</a> Lire l’article pionnier de Gayatri Spivak, « Can the Subaltern Speak ? », publié pour la première fois en 1988 in Cary Nelson and Lawrence Grossberg's <em>Marxism and the Interpretation of Culture</em>. </li><li id='fn:10'><a href='#fnref:10' rev='footnote'>⇡</a> Officiel britannique chargé de la supervision de la domination coloniale britannique en Egypte. </li><li id='fn:11'><a href='#fnref:11' rev='footnote'>⇡</a> (dir.) <em>La république mise à nu par son immigration</em>, ed. La Fabrique, 2006, Macé E. (en collab. avec), <em>Les féministes et le garçon arabe</em>, ed. Aube, 2004. </li><li id='fn:12'><a href='#fnref:12' rev='footnote'>⇡</a> Mohanty C., <em>Under Western Eyes</em>, op. cit. </li><li id='fn:13'><a href='#fnref:13' rev='footnote'>⇡</a> Davis A., <em>Femmes, race et classe</em>, ed. Des Femmes, 1983, et <em>Black Feminism</em>, op. cit. p34-42. </li><li id='fn:14'><a href='#fnref:14' rev='footnote'>⇡</a> Pour une excellente analyse féministe de l’affaire DSK voir l’excellent ouvrage dirigé par Christine Delphy, <em>Un troussage de domestique</em>, ed. Syllepse, 2011. </li><li id='fn:15'><a href='#fnref:15' rev='footnote'>⇡</a> Partie du titre de l’ouvrage fondateur des études féministes noires états-uniennes : Hull G., Scott P. B., Smith B., <em>All the Women are White, All the Blacks are Men but Some of Us are Brave : Black Women’s Studies</em>, ed. Feminist Press, 1982. </li><li id='fn:16'><a href='#fnref:16' rev='footnote'>⇡</a> Chandra Talpade Mohanty, <em>Feminism without Borders : Decolonizing Theory, Practising Solidarity</em>, ed. Duke University Press, 2003. </li><li id='fn:17'><a href='#fnref:17' rev='footnote'>⇡</a> En France, l’expérience du Collectif des Féministes pour l’Egalité est intéressante à ce sujet. </li><li id='fn:18'><a href='#fnref:18' rev='footnote'>⇡</a> Chandra Talpade Mohanty, <em>Feminism without Borders</em>, op.cit. </li>
 </ol>
 </div>
-
+</p>
 
 <p><strong>Zahra Ali</strong> est engagée depuis de nombreuses années au sein de
 dynamiques musulmanes, féministes et antiracistes. Elle est
 actuellement doctorante en sociologie à l’EHESS et à l’IFPO.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Féminismes Islamiques : Rencontre-débat avec Zahra Ali]]></title>
-    <link href="http://frontdu20mars.github.com/Rencontres/2012/06/08/feminismes-islamiques-rencontre-debat-avec-zahra-ali.html"/>
-    <updated>2012-06-08T15:36:00+02:00</updated>
-    <id>http://frontdu20mars.github.com/Rencontres/2012/06/08/feminismes-islamiques-rencontre-debat-avec-zahra-ali</id>
-    <content type="html"><![CDATA[<h4>Le <strong>samedi 9 juin 2012</strong> de 16h à 18h, au 3 passage Kracher, 75018 Paris (salle du bas), M° Simplon</h4>
-
-<p>« La femme en islam », son « statut » font l’objet d’une réquisition permanente – et des plus fallacieuses – pour servir l’agenda raciste et impérial, sur le territoire national comme à l’échelle internationale.</p>
-
-<p>L’argument de l’émancipation et de la libération des femmes musulmanes a joué un rôle central durant la colonisation : un <em>féminisme colonial</em> a largement pris à son compte la « mission civilisatrice » à l’œuvre dans les colonies, coude à coude avec les autorités militaires et impériales. Les termes de la « bataille du voile » décrite par Edward Saïd et Frantz Fanon résonnent aujourd’hui comme un terrible écho.</p>
-
-<!-- more -->
-
-
-<p>De nos jours, on assiste en effet à un véritable acharnement médiatique, politique et législatif à l’encontre des femmes musulmanes qui servent de faire-valoir aux offensives les plus sécuritaires, les plus sexistes et les plus racistes – et ce à leurs corps défendant et contre leurs droits les plus fondamentaux.</p>
-
-<p>La rhétorique à l’œuvre au cœur de cette vaste opération développe une opposition systématique entre les luttes contre les oppressions sexuelles ou de genre et les luttes antiracistes/anti-impérialistes. Nos luttes sont envisagées au mieux comme concurrentes, au pire comme inconciliables. C’est ainsi, notamment, que les campagnes islamophobes se nourrissent d’une opposition trompeuse entre mouvements émancipateurs et pratiques religieuses.</p>
-
-<p>Dès lors, <em>féminisme</em> et <em>islam</em> sont entendus comme incompatibles. Or, le(s) féminisme(s) islamique(s) existe(nt) bel et bien : partout dans le monde, des intellectuelles, des chercheuses et des militantes s’engagent dans une démarche féministe à l’intérieur du cadre religieux musulman – et cela ne date pas d’aujourd’hui.</p>
-
-<p><strong>Zahra Ali</strong>, par son expérience et son travail de recherche, propose de décoloniser et de subvertir le féminisme hégémonique à partir du corpus et des pratiques des féminismes islamiques.</p>
-
-<p><strong>Zahra Ali</strong> est engagée depuis de nombreuses années au sein de dynamiques musulmanes, féministes et antiracistes. Elle est actuellement doctorante en sociologie à l’EHESS et à l’IFPO.</p>
-
-<p>Le <strong>samedi 9 juin 2012</strong> de 16h à 18h, au 3 passage Kracher, 75018 Paris (salle du bas), M° Simplon</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Combattre le Pinkwashing : Au cœur du mouvement queer arabe]]></title>
-    <link href="http://frontdu20mars.github.com/Rencontres/2012/03/15/combattre-le-pinkwashing-au-coeur-du-mouvement-queer-arabe.html"/>
-    <updated>2012-03-15T00:22:00+01:00</updated>
-    <id>http://frontdu20mars.github.com/Rencontres/2012/03/15/combattre-le-pinkwashing-au-coeur-du-mouvement-queer-arabe</id>
-    <content type="html"><![CDATA[<h4>Rencontre-débat le <strong>mardi 20 mars 2012 à 19h</strong> au Vieux-Saumur 1er étage, 10 rue de Belleville, 75020 Paris (M° Belleville)</h4>
-
-<p>Un repas de soutien à la Rôtisserie nous a permis de largement financer la venue exceptionnelle de
-<strong>Haneen Maikey et Ramzy Kumsieh</strong></p>
-
-<p>Ces militant•e•s palestinien•ne•s sont membres de l&#8217;association <em>Al-Qaws</em> pour la diversité sexuelle et de genre dans la société palestinienne, et participent activement à la campagne <em>Palestinian Queers for BDS</em> (appel de la société civile palestinienne au boycott, au désinvestissement et aux sanctions contre l’apartheid et l’occupation de la Palestine).</p>
-
-<!-- more -->
-
-
-<hr />
-
-<p>L’Europe entière est le terrain d’une large opération de cooptation des mouvements féministes, <em>queers</em> et « LGBT » blancs par les forces réactionnaires à l’offensive contre les musulmans, les immigrés, et toutes les personnes non-blanches en général. <em>The Guardian</em> a notamment souligné que la formation d’extrême droite britannique <em>English Defense League</em> compte plus de 115 membres au sein de sa commission <em>gay</em>. D’autre part, en Allemagne, la Fédération gay et lesbienne a émis des déclarations qui pointent explicitement les musulman•e•s comme les ennemi•e•s de la « communauté gay ». En France, par exemple, le 7 mai 2011 le mouvement des identitaires appelait à un kiss-in devant la « grande mosquée » de Lyon pour « combattre l’homophobie dans les pays islamiques, et l’homophobie d’une petite minorité de musulmans en France. » Plus largement, l’argument qui associe l’homophobie et le sexisme aux communautés issues de la colonisation participe d’une nouvelle dynamique raciste, et tend à opposer durablement les combats antiracistes aux luttes contre les oppressions sexuelles et de genre. Et il ne faudrait pas sous-estimer la part active des groupes « LGBT » dans l&#8217;élaboration de ce dispositif idéologique : ce qu&#8217;il faut mettre en discussion, c&#8217;est tout un répertoire de tactiques qui s&#8217;inscrivent dans un militantisme occidental hégémonique, des modes de visibilisations aux solidarités internationales.</p>
-
-<p>Car cet alignement se fait aussi en appui du redéploiement de l’impérialisme. Bien au-delà de l’Europe, cette rhétorique s’érige déjà en stratégie de guerre. Selon <em>The New York Times</em>, dès 2005, et ce avec l’aide de directeurs marketing américains, le gouvernement israélien a déployé une vaste campagne, « <em>Brand Israel</em> », en direction principalement des hommes entre 18 et 34 : cette campagne a été mise en œuvre en vue d’offrir à cet État colonial un visage attractif et moderne. En 2009, <em>The Israel Project</em> a publié un dictionnaire des « mots qui marchent » pour défendre la politique d&#8217;Israël en mettant l’accent sur le fait que la « démocratie » israélienne respecte « les droits des femmes ». Ce plan marketing s’est progressivement dirigé à l’attention de la « communauté LGBT ». Dès lors, en 2010, ce sont 90 millions de dollars qui ont été investis par l’office de tourisme de Tel Aviv pour se donner des allures de destination de vacances sur mesure pour les gays du monde entier. Ce type de financement fleurit, souvent à la faveur d’un arsenal culturel, pour donner un visage <em>gay-friendly</em> à Israël. Les ambassades israéliennes financent des festivals de films gays et lesbiens, aux États-Unis comme en Europe. En France, la venue d’une cinéaste israélienne au festival de films féministes et lesbiens Cineffable avait donné lieu à un partenariat entre les organisateurs et organisatrices du festival et l’ambassade d’Israël – l’ambassade finançait en effet la venue de la cinéaste. La campagne pour le Boycott culturel de l’État d’Israël (PACBI) a révélé en 2008 que les contrats qui relient les artistes Israélienn•e•s à leur gouvernement, lorsque celui-ci finance leur déplacement, contiennent une clause qui définit le but de la collaboration : « promouvoir les intérêts politiques de l’État d&#8217;Israël [&#8230;] et créer une image positive d’Israël. »</p>
-
-<p>Un mouvement grandissant à l&#8217;échelle internationale dénonce cette tactique de <em>pinkwashing</em> : une stratégie délibérée pour occulter la violation systématique des droits des Palestinien•ne•s derrière un visage moderne, symbolisé par la vitalité des espaces <em>gay</em> en Israël.</p>
-
-<p>Ces redéploiements impérialistes comme cette régénérescence du racisme impliquent de nouvelles analyses et des discussions stratégiques pour questionner les modes d’organisation LGBT et féministes occidentaux hégémoniques. C’est à cette nécessaire remise en cause que s’attèle <em>Al-Qaws</em> depuis la Palestine et au sein d’un réseau plus large de mouvements <em>queer</em> arabes.</p>
-
-<p>Rencontre-débat le <strong>mardi 20 mars 2012 à 19h</strong> au Vieux-Saumur 1er étage, 10 rue de Belleville, 75020 Paris (M° Belleville)</p>
 ]]></content>
   </entry>
   
