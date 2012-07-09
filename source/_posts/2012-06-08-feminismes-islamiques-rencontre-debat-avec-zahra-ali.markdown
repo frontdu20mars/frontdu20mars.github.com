@@ -6,7 +6,7 @@ comments: false
 categories: Rencontres
 ---
 
-#### Le **samedi 9 juin 2012** de 16h à 18h, au 3 passage Kracher, 75018 Paris (salle du bas), M°Simplon
+#### Le **samedi 9 juin 2012** de 16h à 18h, au 3 passage Kracher, 75018 Paris (salle du bas), M° Simplon
 
 « La femme en islam », son « statut » font l’objet d’une réquisition permanente – et des plus fallacieuses – pour servir l’agenda raciste et impérial, sur le territoire national comme à l’échelle internationale.
 
@@ -24,4 +24,4 @@ Dès lors, _féminisme_ et _islam_ sont entendus comme incompatibles. Or, le(s) 
  
 **Zahra Ali** est engagée depuis de nombreuses années au sein de dynamiques musulmanes, féministes et antiracistes. Elle est actuellement doctorante en sociologie à l’EHESS et à l’IFPO.
  
-Le **samedi 9 juin 2012** de 16h à 18h, au 3 passage Kracher, 75018 Paris (salle du bas), M°Simplon
+Le **samedi 9 juin 2012** de 16h à 18h, au 3 passage Kracher, 75018 Paris (salle du bas), M° Simplon
