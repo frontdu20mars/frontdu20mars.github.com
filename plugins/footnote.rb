@@ -69,7 +69,7 @@ end
 private
 def handle_fn_tag(params)
 ref_text = params
-@footnotes << "<li id='fn:#{@current_reference}'><a href='#fnref:#{@current_reference}' rev='footnote'>⇡</a> #{ref_text}</li>"
+@footnotes << "<li id='fn:#{@current_reference}' style='font-size:smaller'><a href='#fnref:#{@current_reference}' rev='footnote'>⇡</a> #{ref_text}</li>"
 @current_reference += 1
 end
 end
