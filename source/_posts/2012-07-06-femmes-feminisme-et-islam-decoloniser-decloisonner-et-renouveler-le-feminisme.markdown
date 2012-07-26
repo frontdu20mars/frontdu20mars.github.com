@@ -12,7 +12,7 @@ _\[Nous publions ici un texte de Zahra Ali qui avait été imprimé et distribu�
 
 _\[**Mise à jour :** Pour voir la vidéo de la rencontre c'est par [ici](/Vidéos/2012/07/21/video-de-la-rencontre-du-9-juin-avec-zahra-ali.html).\]_
 
-----
+
 
 Il faudrait vraisemblablement commencer toute énonciation associant
 les termes « femme » et « islam », par la déconstruction de la
