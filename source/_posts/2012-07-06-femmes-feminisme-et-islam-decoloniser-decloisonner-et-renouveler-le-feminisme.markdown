@@ -10,6 +10,10 @@ categories: Textes
 
 _\[Nous publions ici un texte de Zahra Ali qui avait été imprimé et distribué à prix libre à l'occasion de la [rencontre-débat avec Zahra Ali sur les féminismes islamiques](/Rencontres/2012/06/08/feminismes-islamiques-rencontre-debat-avec-zahra-ali.html) qui a eu lieu le 9 juin 2012.\]_
 
+_\[**Mise à jour :** Pour voir la vidéo de la rencontre c'est par [ici](/Vidéos/2012/07/21/video-de-la-rencontre-du-9-juin-avec-zahra-ali.html).\]_
+
+----
+
 Il faudrait vraisemblablement commencer toute énonciation associant
 les termes « femme » et « islam », par la déconstruction de la
 pertinence d’un tel sujet. Traiter de la question de « la femme en

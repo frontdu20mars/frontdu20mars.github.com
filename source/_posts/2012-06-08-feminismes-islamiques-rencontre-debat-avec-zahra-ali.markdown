@@ -25,3 +25,5 @@ Dès lors, _féminisme_ et _islam_ sont entendus comme incompatibles. Or, le(s) 
 **Zahra Ali** est engagée depuis de nombreuses années au sein de dynamiques musulmanes, féministes et antiracistes. Elle est actuellement doctorante en sociologie à l’EHESS et à l’IFPO.
  
 Le **samedi 9 juin 2012** de 16h à 18h, au 3 passage Kracher, 75018 Paris (salle du bas), M° Simplon
+
+_\[**Mise à jour :** Pour voir la vidéo de la rencontre c'est par [ici](/Vidéos/2012/07/21/video-de-la-rencontre-du-9-juin-avec-zahra-ali.html). Et pour lire le texte de Zahra Ali "Femmes, féminisme et islam : Décoloniser, décloisonner et renouveler le féminisme", c'est par [là](/Textes/2012/07/06/femmes-feminisme-et-islam-decoloniser-decloisonner-et-renouveler-le-feminisme.html).\]_
