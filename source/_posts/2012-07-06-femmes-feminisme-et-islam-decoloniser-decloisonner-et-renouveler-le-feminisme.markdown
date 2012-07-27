@@ -13,6 +13,8 @@ _\[Nous publions ici un texte de Zahra Ali qui avait été imprimé et distribu�
 _\[**Mise à jour :** Pour voir la vidéo de la rencontre c'est par [ici](/Vidéos/2012/07/21/video-de-la-rencontre-du-9-juin-avec-zahra-ali.html).\]_
 
 
+--
+
 
 Il faudrait vraisemblablement commencer toute énonciation associant
 les termes « femme » et « islam », par la déconstruction de la
@@ -385,6 +387,18 @@ et sexuelles.
 
 
 
+--
+
+
+**Zahra Ali** est engagée depuis de nombreuses années au sein de
+dynamiques musulmanes, féministes et antiracistes. Elle est
+actuellement doctorante en sociologie à l’EHESS et à l’IFPO.
+
+
+--
+
+
+
 **Notes**
 
 {% footnotes %}
@@ -426,13 +440,5 @@ et sexuelles.
 {% fn  Chandra Talpade Mohanty, <em>Feminism without Borders</em>, op.cit. %}
 
 {% endfootnotes %}
-
-
-
-
-
-**Zahra Ali** est engagée depuis de nombreuses années au sein de
-dynamiques musulmanes, féministes et antiracistes. Elle est
-actuellement doctorante en sociologie à l’EHESS et à l’IFPO.
 
 

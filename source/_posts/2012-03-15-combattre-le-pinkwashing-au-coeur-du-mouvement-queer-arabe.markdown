@@ -11,7 +11,7 @@ categories: Rencontres
 Un repas de soutien à la Rôtisserie nous a permis de largement financer la venue exceptionnelle de
 **Haneen Maikey et Ramzy Kumsieh**
 
-Ces militant•e•s palestinien•ne•s sont membres de l'association _Al-Qaws_ pour la diversité sexuelle et de genre dans la société palestinienne, et participent activement à la campagne _Palestinian Queers for BDS_ (appel de la société civile palestinienne au boycott, au désinvestissement et aux sanctions contre l’apartheid et l’occupation de la Palestine).
+Ces militant•e•s palestinien•ne•s sont membres de l'association [_Al-Qaws_ pour la diversité sexuelle et de genre dans la société palestinienne](http://alqaws.org), et participent activement à la campagne [_Palestinian Queers for BDS_](http://pqbds.org) (appel de la société civile palestinienne au boycott, au désinvestissement et aux sanctions contre l’apartheid et l’occupation de la Palestine).
 
 <!-- more -->
 ----
